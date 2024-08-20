@@ -1,0 +1,242 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcomparator
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1686638941
+!i10b 1
+!s100 I2T;2i_5XCR3R_:UW1JNz0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILPKAQf^Lh32>>KRd:D<AM2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/university/sem 4/digital systems/projects/6
+Z5 w1686573386
+Z6 8D:/university/sem 4/digital systems/projects/6/DataPath.sv
+Z7 FD:/university/sem 4/digital systems/projects/6/DataPath.sv
+!i122 188
+L0 11 3
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1686638941.000000
+Z10 !s107 D:/university/sem 4/digital systems/projects/6/DataPath.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/university/sem 4/digital systems/projects/6/DataPath.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vcontroller
+R0
+R1
+!i10b 1
+!s100 P]SlJFAS2OVL=1]_i^=o20
+R2
+IDnYig;`^UoRI67dRMR8ZD2
+R3
+S1
+R4
+w1686567814
+8D:/university/sem 4/digital systems/projects/6/Controller.sv
+FD:/university/sem 4/digital systems/projects/6/Controller.sv
+!i122 189
+L0 1 72
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/university/sem 4/digital systems/projects/6/Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/university/sem 4/digital systems/projects/6/Controller.sv|
+!i113 1
+R12
+R13
+vMemory
+R0
+R1
+!i10b 1
+!s100 >]LLOS5BM8mFzS?CdOA3j3
+R2
+IQn7HdSAZ`Yg^Z[PbO6OeC2
+R3
+S1
+R4
+w1686487113
+8D:/university/sem 4/digital systems/projects/6/Memory.sv
+FD:/university/sem 4/digital systems/projects/6/Memory.sv
+!i122 191
+L0 1 57
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/university/sem 4/digital systems/projects/6/Memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/university/sem 4/digital systems/projects/6/Memory.sv|
+!i113 1
+R12
+R13
+n@memory
+vMUX
+R0
+R1
+!i10b 1
+!s100 m98j9^zZ1<AoGO=7eZS501
+R2
+I5g7R>k29@_M92mD6LVCfG2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 188
+L0 5 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@u@x
+vregister_16bit
+R0
+R1
+!i10b 1
+!s100 ?]8YRo>i[:1@<k6FFeRk22
+R2
+I7Zn36I^FO4XgmDPe^a7;D3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 188
+L0 56 10
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vregister_8bit_P1
+R0
+R1
+!i10b 1
+!s100 ?Cl8Rm_YUhcK`C^KT3KgZ2
+R2
+In6<C`C6gTI@><K936MmU01
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 188
+L0 17 13
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nregister_8bit_@p1
+vregister_8bit_P2
+R0
+R1
+!i10b 1
+!s100 VoNR7G5abB_YiHLk>0Td22
+R2
+IM5aFW:DK]AU5K=fjN2X943
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 188
+L0 33 17
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nregister_8bit_@p2
+vSelectionSorter
+R0
+R1
+!i10b 1
+!s100 3bZXjBlY4<=_4MgSmaKGH0
+R2
+I7c47]:ADK7c9l7YTInYQT0
+R3
+S1
+R4
+w1686554894
+8D:/university/sem 4/digital systems/projects/6/SelectionSorter.sv
+FD:/university/sem 4/digital systems/projects/6/SelectionSorter.sv
+!i122 190
+L0 3 24
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/university/sem 4/digital systems/projects/6/SelectionSorter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/university/sem 4/digital systems/projects/6/SelectionSorter.sv|
+!i113 1
+R12
+R13
+n@selection@sorter
+vSSTB
+R0
+R1
+!i10b 1
+!s100 cVbdzGFodLVm0Qgm7ZZV03
+R2
+I0Gg?B:Z3C8el3mYlX55N]1
+R3
+S1
+R4
+w1686490374
+8D:/university/sem 4/digital systems/projects/6/SSTB.sv
+FD:/university/sem 4/digital systems/projects/6/SSTB.sv
+!i122 192
+L0 3 22
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/university/sem 4/digital systems/projects/6/SSTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/university/sem 4/digital systems/projects/6/SSTB.sv|
+!i113 1
+R12
+R13
+n@s@s@t@b

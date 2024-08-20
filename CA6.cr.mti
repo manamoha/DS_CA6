@@ -1,0 +1,44 @@
+{D:/university/sem 4/digital systems/projects/6/Controller.sv} {1 {vlog -work work -sv -stats=none {D:/university/sem 4/digital systems/projects/6/Controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/university/sem 4/digital systems/projects/6/SSTB.sv} {1 {vlog -work work -sv -stats=none {D:/university/sem 4/digital systems/projects/6/SSTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SSTB
+
+Top level modules:
+	SSTB
+
+} {} {}} {D:/university/sem 4/digital systems/projects/6/SelectionSorter.sv} {1 {vlog -work work -sv -stats=none {D:/university/sem 4/digital systems/projects/6/SelectionSorter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SelectionSorter
+
+Top level modules:
+	SelectionSorter
+
+} {} {}} {D:/university/sem 4/digital systems/projects/6/Memory.sv} {1 {vlog -work work -sv -stats=none {D:/university/sem 4/digital systems/projects/6/Memory.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {D:/university/sem 4/digital systems/projects/6/DataPath.sv} {1 {vlog -work work -sv -stats=none {D:/university/sem 4/digital systems/projects/6/DataPath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+-- Compiling module comparator
+-- Compiling module register_8bit_P1
+-- Compiling module register_8bit_P2
+-- Compiling module register_16bit
+
+Top level modules:
+	MUX
+	comparator
+	register_8bit_P1
+	register_8bit_P2
+	register_16bit
+
+} {} {}}
